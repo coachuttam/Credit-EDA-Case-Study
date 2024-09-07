@@ -1,6 +1,7 @@
 # Credit-EDA-Case-Study
 
-## About the Dataset
+![image](https://github.com/user-attachments/assets/bf7eb83d-fdbc-49ac-b882-6af7ffedb558)
+
 
 ## Introduction: 
 This case study demonstrates how exploratory data analysis (EDA) can be applied in a real-world business scenario. The focus is on risk analytics in banking and financial services, specifically how data can be leveraged to minimize the risk of financial loss when lending to customers.
